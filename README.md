@@ -1,4 +1,4 @@
-<h1 align="center">I'm Matt</h1>
+<h1 align="center"></h1>
 <h3 align="center">A passionate data scientist looking to further develop my professional skillset and collaborate with others</h3>
 
 - 📫 How to reach me **matthewdmdolan@gmail.com**
