@@ -1,5 +1,5 @@
 <h1 align="center"></h1>
-<h3 align="center">A passionate data scientist looking to further develop my professional skillset and collaborate with others</h3>
+<h3 align="center">A passionate data scientist looking to further develop my professional skillset and collaborate with others, ideally on projects related to social/economic research or projects that seek to foster social mobility through the application of technology</h3>
 
 - 📫 How to reach me **matthewdmdolan@gmail.com**
 
