@@ -1,5 +1,5 @@
 <h1 align="center"></h1>
-<h3 align="center">"Passionate Data Scientist committed to continual professional development and innovation. Always looking to collaborate with others on projects related to social/economic research and tech-driven social mobility projects. "</h3>
+<h3 align="center">Passionate Data Scientist committed to continual professional development and innovation. Always looking to collaborate with others on projects related to social/economic research and tech-driven social mobility projects. </h3>
 
 - 📫 How to reach me **matthewdmdolan@gmail.com**
 
